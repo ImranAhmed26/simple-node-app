@@ -22,5 +22,5 @@ npm run dev
 Remember to add credentials to the env file.
 
 Remember, the to use the client side along with this backend project for full functionality:
-[backend project](https://github.com/ImranAhmed26/Ecom-backend)
+[frontend project](https://github.com/ImranAhmed26/simple-react-app)
 
